@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Calculadora de Notas</string>
+    <string name="nota1">Nota 1</string>
+    <string name="nota2">Nota 2</string>
+    <string name="nota3">Nota 3</string>
+    <string name="nota4">Nota 4</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="numero_faltas">Número de Faltas</string>
+
 </resources>
